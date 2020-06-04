@@ -24,7 +24,7 @@ def replace_line(file_name, line_num, text):
     #read file, write lines and close file 
 
 
-preferences = 'C:\\Users\\benrens\\OneDrive - Ritchie BROS. Auctioneers\\Documents\\My Tableau Repository\\Preferences.tps'
+preferences = '#FILE PATH'
 #this should  be your file path to Preferences.tps file - don't forget \\ 
 subend = '</preferences>'
 #end of Preferences.tps file 
