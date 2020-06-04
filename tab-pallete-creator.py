@@ -1,3 +1,13 @@
+"""
+    tab-palette-creator
+    
+    Create a palette using colorthief 
+    and write directly to the preferences.tps file in
+    Tableau
+
+"""
+
+
 def rgb_to_hex(rgb): 
 #take tuple and return HEX value
     return '%02x%02x%02x' % rgb 
